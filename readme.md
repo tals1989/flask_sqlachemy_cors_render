@@ -8,7 +8,7 @@
 # on netlify
 https://63f3a5385cefb50460ddd502--graceful-paprenjak-cc08d0.netlify.app/
 # on github
-https://narnav.github.io/flask_sqlachemy_cors_render/
+https://tals1989.github.io/flask_sqlachemy_cors_render/
 
 
 # Update DB create 
